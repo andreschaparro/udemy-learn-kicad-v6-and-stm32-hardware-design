@@ -1,0 +1,179 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+CN12       SIP2/2.54             -300mil       2850mil       -300mil       2800mil       -300mil       2800mil  T         90.00                
+D4         SMA                    400mil       1675mil        400mil       1675mil        480mil       1675mil  T        180.00 STPS2L30A      
+JP5        SIP3                  1375mil       1675mil       1475mil       1675mil       1475mil       1675mil  T        180.00                
+C21        0603C                 1550mil       1500mil       1550mil       1500mil       1550mil     1472.5mil  T        270.00 1uF_X5R_0603   
+T1         SOT-23                1775mil       2425mil       1775mil       2425mil   1725.788mil   2387.598mil  T        270.00 9013           
+SB39       JP2_SMD               1450mil        825mil       1450mil        825mil    1416.25mil        825mil  B        180.00 Circuit Breaker
+SB28       JP2_SMD               1450mil       1100mil       1450mil       1100mil    1416.25mil       1100mil  B        180.00 Circuit Breaker
+SB20       JP2_SMD               1450mil       1250mil       1450mil       1250mil    1483.75mil       1250mil  B        360.00 Circuit Breaker
+SB40       JP2_SMD               1450mil        875mil       1450mil        875mil    1416.25mil        875mil  B        180.00 Circuit Breaker
+SB44       JP2_SMD               1450mil        675mil       1450mil        675mil    1483.75mil        675mil  B        360.00 Circuit Breaker
+SB24       JP2_SMD               1450mil       1150mil       1450mil       1150mil    1483.75mil       1150mil  B        360.00 Circuit Breaker
+SB41       JP2_SMD               1450mil        775mil       1450mil        775mil    1416.25mil        775mil  B        180.00 Circuit Breaker
+SB35       JP2_SMD               1450mil       1000mil       1450mil       1000mil    1483.75mil       1000mil  B        360.00 Circuit Breaker
+SB36       JP2_SMD               1450mil        925mil       1450mil        925mil    1416.25mil        925mil  B        180.00 Circuit Breaker
+SB29       JP2_SMD               1450mil       1050mil       1450mil       1050mil    1483.75mil       1050mil  B        360.00 Circuit Breaker
+SB42       JP2_SMD               1450mil        725mil       1450mil        725mil    1416.25mil        725mil  B        180.00 Circuit Breaker
+SB25       JP2_SMD               1450mil       1200mil       1450mil       1200mil    1416.25mil       1200mil  B        180.00 Circuit Breaker
+R10        0603R                 1775mil       2575mil       1775mil       2575mil       1775mil     2602.5mil  T         90.00 36K            
+R11        0603R                 1725mil       2575mil       1725mil       2575mil       1725mil     2547.5mil  T        270.00 100            
+R12        0603R                 1825mil       2575mil       1825mil       2575mil       1825mil     2547.5mil  T        270.00 10K            
+D2         SOD323/A              1600mil       2650mil       1600mil       2650mil       1555mil       2650mil  T        180.00 BAT60JFILM     
+D3         SOD323/A              1725mil       2250mil       1725mil       2250mil       1725mil       2205mil  T        270.00 BAT60JFILM     
+SB16       JP2_SMD               1375mil       2325mil       1375mil       2325mil       1375mil    2358.75mil  B         90.00 Circuit Breaker
+SB46       JP2_SMD                925mil        575mil        925mil        575mil     958.75mil        575mil  B        360.00 Circuit Breaker
+SB51       JP2_SMD                925mil        475mil        925mil        475mil     891.25mil        475mil  B        180.00 Circuit Breaker
+SB52       JP2_SMD                925mil        525mil        925mil        525mil     958.75mil        525mil  B        360.00 Circuit Breaker
+SB56       JP2_SMD                925mil        425mil        925mil        425mil     891.25mil        425mil  B        180.00 Circuit Breaker
+SB2        JP2_SMD               1150mil       1500mil       1150mil       1500mil       1150mil    1533.75mil  T         90.00 Circuit Breaker
+SB1        JP2_SMD               2125mil       2275mil       2125mil       2275mil       2125mil    2308.75mil  T         90.00 Circuit Breaker
+U3         SOT-223                725mil       1600mil        725mil       1600mil        600mil       1693mil  T        180.00 LD1117S50TR    
+C28        0603C                 1300mil        600mil       1300mil        600mil     1272.5mil        600mil  T        180.00 100nF          
+T2         SO8                   1975mil       2275mil       1975mil       2275mil       2050mil   2377.362mil  T        180.00 STS7PF30L      
+R32        0603R                  475mil       1175mil        475mil       1175mil      502.5mil       1175mil  T        360.00 1K             
+R6         0603R                  925mil       2775mil        925mil       2775mil        925mil     2802.5mil  T         90.00 100K           
+C22        TAN-A                  705mil    1226.25mil        705mil    1171.25mil        705mil    1171.25mil  T        270.00 2.2uF          
+C25        TAN-A                 1305mil        925mil       1250mil        925mil       1250mil        925mil  T        180.00 2.2uF          
+C26        TAN-A                 1305mil        825mil       1250mil        825mil       1250mil        825mil  T        180.00 2.2uF          
+R15        0603R                 1300mil       2575mil       1300mil       2575mil       1300mil     2602.5mil  T         90.00 100K           
+R17        0603R                 1425mil       2575mil       1425mil       2575mil       1425mil     2602.5mil  T         90.00 0              
+R18        0603R                 1475mil       2575mil       1475mil       2575mil       1475mil     2602.5mil  T         90.00 0              
+R16        0603R                 1375mil       2575mil       1375mil       2575mil       1375mil     2602.5mil  T         90.00 1K5            
+R19        0603R                 1875mil       2575mil       1875mil       2575mil       1875mil     2602.5mil  T         90.00 0              
+R20        0603R                 1925mil       2575mil       1925mil       2575mil       1925mil     2547.5mil  T        270.00 100            
+R21        0603R                 1975mil       2575mil       1975mil       2575mil       1975mil     2547.5mil  T        270.00 100            
+R24        0603R                 1300mil       2350mil       1300mil       2350mil     1327.5mil       2350mil  T        360.00 100            
+R27        0603R                  300mil       2300mil        300mil       2300mil      272.5mil       2300mil  T        180.00 4K7            
+R23        0603R                  300mil       2350mil        300mil       2350mil      272.5mil       2350mil  T        180.00 4K7            
+R25        0603R                 1300mil       2400mil       1300mil       2400mil     1272.5mil       2400mil  T        180.00 100            
+R14        0603R                  300mil       2450mil        300mil       2450mil      327.5mil       2450mil  T        360.00 100K           
+R22        0603R                   75mil       2400mil         75mil       2400mil       47.5mil       2400mil  T        180.00 22             
+R13        0603R                   75mil       2475mil         75mil       2475mil       47.5mil       2475mil  T        180.00 22             
+R8         0603R                   75mil       2550mil         75mil       2550mil       47.5mil       2550mil  T        180.00 22             
+R5         0603R                   75mil       2625mil         75mil       2625mil       47.5mil       2625mil  T        180.00 22             
+R9         0603R                  300mil       2525mil        300mil       2525mil      272.5mil       2525mil  T        180.00 100            
+R2         0603R                  675mil       2775mil        675mil       2775mil        675mil     2802.5mil  T         90.00 10K            
+R1         0603R                   75mil       2775mil         75mil       2775mil       47.5mil       2775mil  T        180.00 10K            
+C17        TAN-A                  975mil       1595mil        975mil       1650mil        975mil       1650mil  T         90.00 10uF           
+C29        0603C                  625mil        350mil        625mil        350mil        625mil      377.5mil  T         90.00 1uF_X5R_0603   
+B2         PB10                  1275mil       1900mil       1275mil       1900mil   1097.835mil     1812.5mil  T        360.00 TD-0341 [RESET/Black]
+B1         PB10                   625mil       1900mil        625mil       1900mil    802.165mil     1987.5mil  T        180.00 USER (Blue)    
+X3         XTAL1              775.362mil    175.197mil        875mil        175mil    875.362mil    175.197mil  T        180.00 8MHz(16pF)[N/A]
+X2         XTAL_4SM_8X3R8         375mil        150mil        375mil        150mil    483.268mil    212.992mil  T        180.00 32.768K[N/A]   
+X1         XTAL1              575.197mil   2399.638mil        575mil       2300mil    575.197mil   2299.638mil  T         90.00 8MHz(12pF)     
+U4         DFN6(3X3)             1375mil       1500mil       1375mil       1500mil   1426.182mil   1462.598mil  T         90.00 LD39050PU33R   
+U1         SOT-23-5L             1600mil       2400mil       1600mil       2400mil   1637.402mil    2453.15mil  T        270.00 LD3985M33R     
+U2         QFP48_7X7              950mil       2450mil        950mil       2450mil    782.677mil   2558.268mil  T        270.00 STM32F103CBT6  
+R35        0603R                  775mil        350mil        775mil        350mil        775mil      377.5mil  T         90.00 [N/A]          
+R28        0603R                 1800mil     2252.5mil       1800mil     2252.5mil       1800mil       2225mil  T        270.00 4K7            
+R33        0603R                  425mil        625mil        425mil        625mil        425mil      652.5mil  T         90.00 10K            
+R37        0603R                  825mil        350mil        825mil        350mil        825mil      377.5mil  T         90.00 [N/A]          
+R36        0603R                  725mil        350mil        725mil        350mil        725mil      322.5mil  T        270.00 [N/A]          
+R29        0603R                  950mil       1925mil        950mil       1925mil      922.5mil       1925mil  T        180.00 100            
+R34        0603R                  675mil        350mil        675mil        350mil        675mil      322.5mil  T        270.00 [N/A]          
+R30        0603R                  950mil       1775mil        950mil       1775mil      922.5mil       1775mil  T        180.00 4K7            
+R31        0603R                 1450mil       1350mil       1450mil       1350mil     1477.5mil       1350mil  T        360.00 510            
+R3         0603R                  725mil       2775mil        725mil       2775mil        725mil     2802.5mil  T         90.00 10K            
+R4         0603R                  975mil       2775mil        975mil       2775mil        975mil     2747.5mil  T        270.00 4K7            
+R7         0603R                 1025mil       2775mil       1025mil       2775mil       1025mil     2802.5mil  T         90.00 2K7            
+LD2        0603D                 1325mil       1350mil       1325mil       1350mil     1352.5mil       1350mil  T        360.00 Green          
+LD3        0603D                467.5mil    1299.99mil      467.5mil    1299.99mil        495mil    1299.99mil  T        360.00 RED            
+LD1        HSMF-A201             1950mil       2800mil       1950mil       2800mil   1979.528mil   2859.055mil  T        270.00 LD_BICOLOR_CMS 
+L1         0603L                 1300mil        550mil       1300mil        550mil     1272.5mil        550mil  T        180.00 BEAD           
+JP6        SIP2/2.54              925mil       1425mil        975mil       1425mil        975mil       1425mil  T        180.00                
+JP1        SIP2/2.54              925mil       2950mil        875mil       2950mil        875mil       2950mil  T        360.00                
+CN3        SIP2/2.54               50mil       2225mil         50mil       2175mil         50mil       2175mil  T         90.00                
+D1         SOD323/A                75mil       2700mil         75mil       2700mil         30mil       2700mil  T        180.00 BAT60JFILM     
+CN1        USB-MINI-B-SMD    1424.894mil   2885.827mil       1425mil       2875mil   1487.886mil   2766.732mil  T          0.00 5075BMR-05-SM  
+CN2        1*4                    450mil       2800mil        450mil       2950mil        450mil       2950mil  T        270.00 Header 4       
+CN4        1*6P                  -100mil       2450mil       -100mil       2700mil       -100mil       2700mil  T        270.00 Header 6X1     
+C30        0603C                  960mil        380mil        960mil        380mil      987.5mil        380mil  T        360.00 100nF          
+C19        0603C                 1250mil       1500mil       1250mil       1500mil       1250mil     1472.5mil  T        270.00 100nF          
+C20        0603C                 1500mil       1500mil       1500mil       1500mil       1500mil     1527.5mil  T         90.00 100nF          
+C18        0603C                 1200mil       1500mil       1200mil       1500mil       1200mil     1527.5mil  T         90.00 1uF_X5R_0603   
+C16        TAN-B                  400mil       1525mil        400mil       1525mil    461.024mil       1525mil  T         90.00 10uF(25V)      
+C23        0603C                  625mil       1175mil        625mil       1175mil        625mil     1202.5mil  T         90.00 100nF          
+C24        0603C              1276.25mil       1000mil    1276.25mil       1000mil    1248.75mil       1000mil  T        180.00 100nF          
+C27        0603C                  500mil        625mil        500mil        625mil        500mil      597.5mil  T        270.00 100nF          
+C14        0603C                  950mil       2000mil        950mil       2000mil      922.5mil       2000mil  T        180.00 100nF          
+C34        0603C                  825mil         50mil        825mil         50mil      852.5mil         50mil  T        360.00 20pF[N/A]      
+C33        0603C                  725mil         50mil        725mil         50mil      697.5mil         50mil  T        180.00 20pF[N/A]      
+C32        0603C                  525mil         10mil        525mil         10mil      497.5mil         10mil  T        180.00 10pF[N/A]      
+C15        0603C                  950mil       1850mil        950mil       1850mil      977.5mil       1850mil  T        360.00 100nF          
+C31        0603C                  525mil        325mil        525mil        325mil      497.5mil        325mil  T        180.00 10pF[N/A]      
+C12        0603C                 1575mil       2250mil       1575mil       2250mil       1575mil     2222.5mil  T        270.00 100nF          
+C9         0603C                 1500mil       2375mil       1500mil       2375mil       1500mil     2402.5mil  T         90.00 10nF_X7R_0603  
+C5         0603C                 1600mil       2550mil       1600mil       2550mil     1572.5mil       2550mil  T        180.00 100nF          
+C13        0603C                 1650mil       2250mil       1650mil       2250mil       1650mil     2277.5mil  T         90.00 1uF_X5R_0603   
+C2         0603C                 1600mil       2600mil       1600mil       2600mil     1572.5mil       2600mil  T        180.00 1uF_X5R_0603   
+C7         0603C                  700mil       2400mil        700mil       2400mil        700mil     2427.5mil  T         90.00 100nF          
+C1         0603C                  850mil       2775mil        850mil       2775mil        850mil     2802.5mil  T         90.00 100nF          
+C4         0603C                 1225mil       2575mil       1225mil       2575mil       1225mil     2602.5mil  T         90.00 100nF          
+C11        0603C                 1050mil       2200mil       1050mil       2200mil     1022.5mil       2200mil  T        180.00 100nF          
+C6         0603C                  300mil       2400mil        300mil       2400mil      272.5mil       2400mil  T        180.00 100nF          
+C10        0603C                 1425mil       2375mil       1425mil       2375mil       1425mil     2402.5mil  T         90.00 20pF           
+C3         0603C                  450mil       2450mil        450mil       2450mil        450mil     2477.5mil  T         90.00 20pF           
+C8         0603C                  450mil       2350mil        450mil       2350mil        450mil     2322.5mil  T        270.00 20pF           
+U5         LQFP64                 850mil        750mil        850mil        750mil      702.5mil    517.658mil  T          0.00 MCU_LQFP64     
+CN8        1*6P_FEMALE              0mil        250mil          0mil        500mil          0mil        500mil  T        270.00 Header 6X1_Female
+CN9        1*8P_FEMALE           1900mil        350mil       1900mil          0mil       1900mil          0mil  T         90.00 Header 8X1_Female
+CN10       2*19P                 2150mil        900mil       2100mil       1800mil       2100mil       1800mil  T        270.00 Header 19X2    
+CN7        2*19P                 -250mil        900mil       -300mil       1800mil       -300mil       1800mil  T        270.00 Header 19X2    
+CN6        1*8P_FEMALE              0mil       1050mil          0mil       1400mil          0mil       1400mil  T        270.00 Header 8X1_Female
+CN5        1*10P_FEMALE          1900mil       1310mil       1900mil        860mil       1900mil        860mil  T         90.00 Header 10X1_Female
+SB45       JP2_SMD                475mil        525mil        475mil        525mil     508.75mil        525mil  B        360.00 Circuit Breaker
+SB54       JP2_SMD                475mil        300mil        475mil        300mil     441.25mil        300mil  B        180.00 Circuit Breaker
+SB55       JP2_SMD                475mil        350mil        475mil        350mil     441.25mil        350mil  B        180.00 Circuit Breaker
+SB48       JP2_SMD                475mil        425mil        475mil        425mil     441.25mil        425mil  B        180.00 Circuit Breaker
+SB49       JP2_SMD                475mil        475mil        475mil        475mil     441.25mil        475mil  B        180.00 Circuit Breaker
+SB53       JP2_SMD               1300mil        450mil       1300mil        450mil    1266.25mil        450mil  B        180.00 Circuit Breaker
+SB58       JP2_SMD               1300mil        400mil       1300mil        400mil    1266.25mil        400mil  B        180.00 Circuit Breaker
+SB59       JP2_SMD               1300mil        350mil       1300mil        350mil    1266.25mil        350mil  B        180.00 Circuit Breaker
+SB32       JP2_SMD                725mil       1175mil        725mil       1175mil        725mil    1141.25mil  B        270.00 Circuit Breaker
+SB33       JP2_SMD                775mil       1175mil        775mil       1175mil        775mil    1141.25mil  B        270.00 Circuit Breaker
+SB30       JP2_SMD                675mil       1175mil        675mil       1175mil        675mil    1208.75mil  B         90.00 Circuit Breaker
+SB31       JP2_SMD                625mil       1175mil        625mil       1175mil        625mil    1208.75mil  B         90.00 Circuit Breaker
+SB38       JP2_SMD               1275mil        900mil       1275mil        900mil    1241.25mil        900mil  B        180.00 Circuit Breaker
+SB18       JP2_SMD               1300mil       1300mil       1300mil       1300mil    1266.25mil       1300mil  B        180.00 Circuit Breaker
+SB19       JP2_SMD               1300mil       1250mil       1300mil       1250mil    1266.25mil       1250mil  B        180.00 Circuit Breaker
+SB22       JP2_SMD               1300mil       1200mil       1300mil       1200mil    1266.25mil       1200mil  B        180.00 Circuit Breaker
+SB23       JP2_SMD               1300mil       1150mil       1300mil       1150mil    1266.25mil       1150mil  B        180.00 Circuit Breaker
+SB26       JP2_SMD               1300mil       1100mil       1300mil       1100mil    1266.25mil       1100mil  B        180.00 Circuit Breaker
+SB50       JP2_SMD                800mil        525mil        800mil        525mil        800mil     558.75mil  B         90.00 Circuit Breaker
+SB17       JP2_SMD                325mil       1750mil        325mil       1750mil     291.25mil       1750mil  B        180.00 Circuit Breaker
+SB27       JP2_SMD               1300mil       1050mil       1300mil       1050mil    1266.25mil       1050mil  B        180.00 Circuit Breaker
+SB34       JP2_SMD               1300mil       1000mil       1300mil       1000mil    1266.25mil       1000mil  B        180.00 Circuit Breaker
+SB61       JP2_SMD               1300mil        250mil       1300mil        250mil    1333.75mil        250mil  B        360.00 Circuit Breaker
+SB62       JP2_SMD               1300mil        300mil       1300mil        300mil    1333.75mil        300mil  B        360.00 Circuit Breaker
+SB63       JP2_SMD               1300mil        200mil       1300mil        200mil    1333.75mil        200mil  B        360.00 Circuit Breaker
+SB13       JP2_SMD               1075mil       2275mil       1075mil       2275mil       1075mil    2241.25mil  B        270.00 Circuit Breaker
+SB14       JP2_SMD               1025mil       2275mil       1025mil       2275mil       1025mil    2241.25mil  B        270.00 Circuit Breaker
+SB11       JP2_SMD                350mil       2450mil        350mil       2450mil     383.75mil       2450mil  B        360.00 Circuit Breaker
+SB10       JP2_SMD                575mil       2650mil        575mil       2650mil     541.25mil       2650mil  B        180.00 Circuit Breaker
+SB9        JP2_SMD                325mil       2650mil        325mil       2650mil     291.25mil       2650mil  B        180.00 Circuit Breaker
+SB8        JP2_SMD                575mil       2750mil        575mil       2750mil     541.25mil       2750mil  B        180.00 Circuit Breaker
+SB7        JP2_SMD                325mil       2750mil        325mil       2750mil     291.25mil       2750mil  B        180.00 Circuit Breaker
+SB6        JP2_SMD                575mil       2850mil        575mil       2850mil     541.25mil       2850mil  B        180.00 Circuit Breaker
+SB5        JP2_SMD                325mil       2850mil        325mil       2850mil     291.25mil       2850mil  B        180.00 Circuit Breaker
+SB4        JP2_SMD                575mil       2950mil        575mil       2950mil     541.25mil       2950mil  B        180.00 Circuit Breaker
+SB3        JP2_SMD                325mil       2950mil        325mil       2950mil     291.25mil       2950mil  B        180.00 Circuit Breaker
+SB15       JP2_SMD               1125mil       2275mil       1125mil       2275mil       1125mil    2308.75mil  B         90.00 Circuit Breaker
+SB12       JP2_SMD                975mil       2275mil        975mil       2275mil        975mil    2308.75mil  B         90.00 Circuit Breaker
+SB43       JP2_SMD               1300mil        625mil       1300mil        625mil    1333.75mil        625mil  B        360.00 Circuit Breaker
+SB47       JP2_SMD               1300mil        575mil       1300mil        575mil    1333.75mil        575mil  B        360.00 Circuit Breaker
+SB21       JP2_SMD               1450mil       1300mil       1450mil       1300mil    1416.25mil       1300mil  B        180.00 Circuit Breaker
+SB57       JP2_SMD                925mil        375mil        925mil        375mil     958.75mil        375mil  B        360.00 Circuit Breaker
+SB60       JP2_SMD                925mil        300mil        925mil        300mil     891.25mil        300mil  B        180.00 Circuit Breaker
+SB37       JP2_SMD               1100mil       1000mil       1100mil       1000mil       1100mil     966.25mil  B        270.00 Circuit Breaker
+CN11       SIP2/2.54             2200mil       2850mil       2200mil       2800mil       2200mil       2800mil  T         90.00                
+JP4        SIP2/2.54             -300mil       2250mil       -300mil       2200mil       -300mil       2200mil  T         90.00                
+R26        0603R                 -200mil       2275mil       -200mil       2275mil       -200mil     2247.5mil  T        270.00 10K            
+Designator NUCLEO_black_2cm  -2908.268mil   -1403.15mil        780mil       1700mil  -2908.268mil   -1403.15mil  B        180.00 Comment        
+Designator LOGO_ESD         -2908.268mil   -1403.15mil       2150mil       2590mil  -2908.268mil   -1403.15mil  T          0.00 Comment        
+Designator NUCLEO_black_0.5cm  -2908.268mil   -1403.15mil       -280mil       2600mil  -2908.268mil   -1403.15mil  T          0.00 Comment        
+Designator ST_LOGO_10mm     -2908.268mil   -1403.15mil       1410mil        120mil  -2908.268mil   -1403.15mil  T          0.00 Comment        
+SB64       JP2_SMD               1275mil        725mil       1275mil        725mil    1241.25mil        725mil  B        180.00 Circuit Breaker
+SB65       JP2_SMD               1275mil        775mil       1275mil        775mil    1241.25mil        775mil  B        180.00 Circuit Breaker
+
